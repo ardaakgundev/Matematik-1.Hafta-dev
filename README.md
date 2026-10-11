@@ -1,19 +1,25 @@
-# 📐 Matematik - 1. Hafta Ödevi
+# 📐 Matematik Ödevleri
 
-Bu depo (repository), **Matematik** dersi 1. Hafta ödevi kapsamında hazırlanan çalışma dokümanını içermektedir.
+Bu depo (repository), **Matematik - I** dersi kapsamında haftalık olarak hazırlanan ödev dokümanlarını içermektedir.
 
 ---
 
 ### 👤 Öğrenci Bilgileri
-* **Adı Soyadı:** Arda Akgün
-* **Ders:** Matematik - I
-* **Konu:** 1. Hafta Ödevi
+- **Adı Soyadı:** Arda Akgün
+- **Ders:** Matematik - I
 
 ---
 
-### 📄 Ödev Dokümanı (PDF)
+### 📄 Ödev Dokümanları
 
-[![PDF'i İncele / İndir](https://img.shields.io/badge/Ödev_PDF'ini_Aç-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Ardaakgünmat1.hafta.pdf)
+Aşağıdaki bağlantılardan ilgili haftaya ait ödev PDF'ini inceleyebilir veya indirebilirsiniz:
+
+| Haftalar | Doküman Bağlantısı |
+| :--- | :--- |
+| **1. Hafta Ödevi** | [![PDF'i Aç](https://img.shields.io/badge/1._Hafta_PDF'ini_Aç-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Ödevler/Matetmatik1.Haftaodev.pdf) |
+| **2. Hafta Ödevi** | [![PDF'i Aç](https://img.shields.io/badge/2._Hafta_PDF'ini_Aç-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Ödevler/Matematik2.Haftaodev.pdf) |
+
+> 💡 *Yeni haftaların ödevleri eklendikçe tablo güncellenecektir.*
 
 ---
-*Hazırlayan: Arda*
+*Hazırlayan: Arda Akgün*
